@@ -174,7 +174,7 @@ There are no guarantees regarding correctness, safety, or long-term stability.
 
 ## Author
 
-Developed and maintained by the repository owner.
-For research collaboration or inquiries, please contact via GitHub.
+Developed and maintained by the passionatesandy2004@gmail.com .
+For research collaboration or inquiries, please contact via Mail or Github.
 
 ---
