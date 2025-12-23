@@ -1158,6 +1158,6 @@ This system implements a comprehensive online learning framework for LLMs with e
 - Distributed online learning
 - Real-time fact verification
 - Advanced forgetting prevention
-
+***The Repo is Closed , Contact Owner For The Access***
 For questions or contributions, please refer to the codebase and configuration files. All components are well-documented and follow consistent patterns.
 
