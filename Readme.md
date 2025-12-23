@@ -1152,12 +1152,14 @@ This system implements a comprehensive online learning framework for LLMs with e
 - ✅ Modular architecture
 - ✅ Extensible design
 
+***The Repo is Closed , Contact Owner For The Access***
+
 **Future Work**:
 - Meta-learning for faster adaptation
 - Multi-modal fact learning
 - Distributed online learning
 - Real-time fact verification
 - Advanced forgetting prevention
-***The Repo is Closed , Contact Owner For The Access***
+
 For questions or contributions, please refer to the codebase and configuration files. All components are well-documented and follow consistent patterns.
 
